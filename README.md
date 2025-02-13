@@ -1,4 +1,3 @@
-# React + TypeScript + Vite
 
 ## Reactive Button Component
 
